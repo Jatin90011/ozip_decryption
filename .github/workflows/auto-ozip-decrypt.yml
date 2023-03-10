@@ -16,7 +16,7 @@ on:
 env:
   FIRMWARE_LINK: https://download.c.realme.com/osupdate/RMX2050EX_11_OTA_0330_all_DmrSTPOL6C5q.ozip #edit link here...
   FIRMWARE_NAME: RMX2050EX_11_OTA_0330_all_DmrSTPOL6C5q.ozip #edit file name here, you can find the name of file from link itself...
-  FINAL_ZIP_NAME: NARZO20A.zip #This will be the name of final zip which will be uploaded. You can leave it unchanged.
+  FINAL_ZIP_NAME: NNARZO20A.zip #This will be the name of final zip which will be uploaded. You can leave it unchanged.
   TZ: Asia/Kolkata
 
 jobs:
